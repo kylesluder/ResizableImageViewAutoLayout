@@ -1,0 +1,40 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal"
+    },
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "stretch",
+          "width" : 92,
+          "height" : 92
+        },
+        "capInsets" : {
+          "bottom" : 18,
+          "top" : 18,
+          "right" : 18,
+          "left" : 18
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "PinkBackground.png",
+      "alignment-insets" : {
+        "top" : 4,
+        "left" : 4,
+        "bottom" : 4,
+        "right" : 4
+      },
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
